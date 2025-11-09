@@ -221,6 +221,16 @@ Planned features for future releases:
 **⭐ If this repository helps your research, please consider starring it on GitHub!**
 
 ---
+##  Creator & Contact
+
+**Sadik Aden Dirir**
+
+- [ORCID](https://orcid.org/0000-0002-8159-5442)
+- [Instagram](https://www.instagram.com/sadiq_n7i/)
+- [X / Twitter](https://x.com/sadikadendirir)
+- [LinkedIn](https://www.linkedin.com/in/sadik-aden-a24440385/)
+- [CodePen](https://codepen.io/lost-spirit-the-animator)
+
 
 *Last Updated: November 10, 2025*
 
