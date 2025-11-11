@@ -1,6 +1,4 @@
-# Patent Innovation Network Analysis
 
-**Breakthrough Prediction Using USPTO Citation Networks**
 
 Fully Reproducible • 4 Stages in 1 Script*
 
